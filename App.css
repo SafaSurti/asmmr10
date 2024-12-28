@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.color{
+  background-color: rgb(11, 11, 153);
+  width: 800px;
+  height: 500px;
+  margin-left: 100px;
+}
+.color2{
+  background-color: rgb(168, 230, 255);
+  height: 350px;
+  width: 650px;
+  position: relative;
+  margin-top: -430px;
+  margin-left: 170px;
+  border: 2px solid burlywood;
+  border-radius: 15px 15px 15px 15px;
+  
+}
+.h3{
+  font-size: 20px;
+  margin-right: 450px;
+}
+.p{
+  font-family: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 355px;
+  margin-top: -16px;
+  
+}
+.name{
+  margin-left: -180px;
+  font-size: 20px ;
+  font-weight: bold
+  
+
+}
+.email{
+  margin-left: -180px;
+  font-size: 20px ;
+  font-weight: bold
+  
+}
+.password{  
+  margin-left: -180px;
+  font-size: 20px ;
+  font-weight: bold
+  
+}
+.p2{
+margin-right: 230px;
+font-size: 12px;
+}
+.button{
+  background-color: blue;
+  width:100px;
+  border: 2px solid blue;
+  border-radius: 15px 15px 15px 15px;
+  margin-right: 220px;
+  height: 40px;
+  text-align: center;
+  margin-top: 5px;
+
+}
+.img{
+  width: 230px; 
+  height: 250px; 
+  background-color: lightblue; 
+  display: flex;
+  margin-left: 390px;
+  margin-top: -250px;
+  filter: invert(30%);
+  filter: sepia(100%);
+  filter: saturate(500%);
+  border: none;
+}
+.input{
+  width: 200px;
+  border: 2px solid white;
+  border-radius: 15px 15px 15px 15px;
+  margin-bottom: -200px;
+  margin-right: 90px;
+  
+}
+.Email{
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: -200px;
+    margin-right: 90px;
+}
+.Password{
+  width: 200px;
+  border: 2px solid white;
+  border-radius: 15px 15px 15px 15px;
+  margin-bottom: -200px;
+  margin-right: 90px;
+}
